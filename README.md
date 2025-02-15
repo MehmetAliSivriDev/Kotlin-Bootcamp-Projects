@@ -13,9 +13,8 @@ This repository contains several projects developed using Kotlin. Each project u
 
 **Screenshots:**  
 | <img src="screenshots/food/1.png" width="250" height="400"> | <img src="screenshots/food/2.png" width="250" height="400"> |
-| --- | --- |
 | <img src="screenshots/food/3.png" width="250" height="400"> | <img src="screenshots/food/4.png" width="250" height="400"> |
-| <img src="screenshots/food/5.png" width="250" height="400"> |  |
+| <img src="screenshots/food/5.png" width="250" height="400"> |
 
 ---
 
@@ -55,8 +54,4 @@ This repository contains several projects developed using Kotlin. Each project u
 - Glide
 
 **Screenshots:**  
-| <img src="screenshots/pizza/1.png" width="250" height="400"> |  |
-
----
-
-Feel free to explore each project for more details or to check the code in the respective project folders.
+| <img src="screenshots/pizza/1.png" width="250" height="400"> | 
