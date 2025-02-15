@@ -12,11 +12,10 @@ This repository contains several projects developed using Kotlin. Each project u
 - Glide
 
 **Screenshots:**  
-- ![Food Ordering App 1](screenshots/food/1.png)  
-- ![Food Ordering App 2](screenshots/food/2.png)  
-- ![Food Ordering App 3](screenshots/food/3.png)  
-- ![Food Ordering App 4](screenshots/food/4.png)  
-- ![Food Ordering App 5](screenshots/food/5.png)  
+| ![Food Ordering App 1](screenshots/food/1.png | width=250, height=400) | ![Food Ordering App 2](screenshots/food/2.png | width=250, height=400) |
+| --- | --- |
+| ![Food Ordering App 3](screenshots/food/3.png | width=250, height=400) | ![Food Ordering App 4](screenshots/food/4.png | width=250, height=400) |
+| ![Food Ordering App 5](screenshots/food/5.png | width=250, height=400) |  |
 
 ---
 
@@ -30,8 +29,8 @@ This repository contains several projects developed using Kotlin. Each project u
 - Glide
 
 **Screenshots:**  
-- ![Movie App 1](screenshots/film/1.png)  
-- ![Movie App 2](screenshots/film/2.png)
+| ![Movie App 1](screenshots/film/1.png | width=250, height=400) | ![Movie App 2](screenshots/film/2.png | width=250, height=400) |
+| --- | --- |
 
 ---
 
@@ -44,10 +43,9 @@ This repository contains several projects developed using Kotlin. Each project u
 - Firebase
 
 **Screenshots:**  
-- ![Contacts App 1](screenshots/kisiler/1.png)  
-- ![Contacts App 2](screenshots/kisiler/2.png)  
-- ![Contacts App 3](screenshots/kisiler/3.png)  
-- ![Contacts App 4](screenshots/kisiler/4.png)
+| ![Contacts App 1](screenshots/kisiler/1.png | width=250, height=400) | ![Contacts App 2](screenshots/kisiler/2.png | width=250, height=400) |
+| --- | --- |
+| ![Contacts App 3](screenshots/kisiler/3.png | width=250, height=400) | ![Contacts App 4](screenshots/kisiler/4.png | width=250, height=400) |
 
 ---
 
@@ -57,6 +55,6 @@ This repository contains several projects developed using Kotlin. Each project u
 - Glide
 
 **Screenshots:**  
-- ![Pizza Design App](screenshots/pizza/1.png)
+| ![Pizza Design App](screenshots/pizza/1.png | width=250, height=400) |  |
 
 ---
