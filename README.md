@@ -12,9 +12,9 @@ This repository contains several projects developed using Kotlin. Each project u
 - Glide
 
 **Screenshots:**  
-| <img src="screenshots/food/1.png" width="250" height="400"> | <img src="screenshots/food/2.png" width="250" height="400"> |
-| <img src="screenshots/food/3.png" width="250" height="400"> | <img src="screenshots/food/4.png" width="250" height="400"> |
-| <img src="screenshots/food/5.png" width="250" height="400"> |
+ <img src="screenshots/food/1.png" width="250" height="400">  <img src="screenshots/food/2.png" width="250" height="400"> 
+ <img src="screenshots/food/3.png" width="250" height="400">  <img src="screenshots/food/4.png" width="250" height="400"> 
+ <img src="screenshots/food/5.png" width="250" height="400"> 
 
 ---
 
@@ -28,7 +28,7 @@ This repository contains several projects developed using Kotlin. Each project u
 - Glide
 
 **Screenshots:**  
-| <img src="screenshots/film/1.png" width="250" height="400"> | <img src="screenshots/film/2.png" width="250" height="400"> |
+ <img src="screenshots/film/1.png" width="250" height="400">  <img src="screenshots/film/2.png" width="250" height="400"> 
 
 
 ---
@@ -42,9 +42,9 @@ This repository contains several projects developed using Kotlin. Each project u
 - Firebase
 
 **Screenshots:**  
-| <img src="screenshots/kisiler/1.png" width="250" height="400"> | <img src="screenshots/kisiler/2.png" width="250" height="400"> |
+ <img src="screenshots/kisiler/1.png" width="250" height="400">  <img src="screenshots/kisiler/2.png" width="250" height="400"> 
 
-| <img src="screenshots/kisiler/3.png" width="250" height="400"> | <img src="screenshots/kisiler/4.png" width="250" height="400"> |
+ <img src="screenshots/kisiler/3.png" width="250" height="400">  <img src="screenshots/kisiler/4.png" width="250" height="400"> 
 
 ---
 
@@ -54,4 +54,4 @@ This repository contains several projects developed using Kotlin. Each project u
 - Glide
 
 **Screenshots:**  
-| <img src="screenshots/pizza/1.png" width="250" height="400"> | 
+ <img src="screenshots/pizza/1.png" width="250" height="400">  
