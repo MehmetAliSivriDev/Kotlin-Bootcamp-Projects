@@ -49,9 +49,5 @@ This repository contains several projects developed using Kotlin. Each project u
 ---
 
 ## 4. Pizza Design App
-**Technologies Used:**  
-- MVVM  
-- Glide
-
 **Screenshots:**  
  <img src="screenshots/pizza/1.png" width="250" height="400">  
