@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955613262130",
+    "project_id": "kisileruygulamasikotlin",
+    "storage_bucket": "kisileruygulamasikotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955613262130:android:71942647e9eaf187e7272b",
+        "android_client_info": {
+          "package_name": "com.example.kisileruygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEf-VBo8D0dL6KzWmyoL0nIlalAm0Kik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
