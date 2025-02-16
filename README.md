@@ -6,6 +6,7 @@ This repository contains several projects developed using Kotlin. Each project u
 
 ## 1. Food Ordering App
 **Technologies Used:**  
+- View & Data Binding
 - MVVM  
 - Hilt  
 - Retrofit  
@@ -20,6 +21,7 @@ This repository contains several projects developed using Kotlin. Each project u
 
 ## 2. Movie App
 **Technologies Used:**  
+- View & Data Binding
 - MVVM  
 - Hilt  
 - Room  
@@ -35,6 +37,7 @@ This repository contains several projects developed using Kotlin. Each project u
 
 ## 3. Contacts App
 **Technologies Used:**  
+- View & Data Binding
 - MVVM  
 - Hilt  
 - Room  
